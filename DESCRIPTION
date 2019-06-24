@@ -1,4 +1,6 @@
 Package: ness
+Version: 0.1.0
+Date: 2019-06-24
 Type: Package
 Title: Hypergeometric standardization and probabilistic measures of similarity for community ecology
 Version: 0.1.0
