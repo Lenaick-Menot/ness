@@ -22,3 +22,6 @@ You can install the package in R from github using devtools.
 devtools::install_github('Lenaick-Menot/ness')
 
 library(ness)
+
+# How to cite
+https://zenodo.org/badge/DOI/10.5281/zenodo.3254750.svg
