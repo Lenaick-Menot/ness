@@ -9,6 +9,7 @@ The ness package provides three functions to compute NNESS and CNESS, two simila
     
 # References
 Gallagher, E.D., 1996. COMPAH documentation. p. 65. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.1334&rep=rep1&type=pdf
+
 Trueblood, D.D., Gallagher, E.D., Gould, D.M., 1994. Three stages of seasonal succession on the Savin Hill Cove mudflat, Boston Harbor. Limnology and Oceanography 39, 1440-1454.
 
 # Installation
