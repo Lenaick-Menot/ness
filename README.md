@@ -24,4 +24,4 @@ devtools::install_github('Lenaick-Menot/ness')
 library(ness)
 
 # How to cite
-Menot L. (2019). ness with R - hypergeometric standardization and probabilistic measures of similarity for community ecology - v0.1.0. Zenodo. https://doi.org/10.5281/zenodo.3254750
+Menot L. (2019). ness: Hypergeometric standardization and probabilistic measures of similarity for community ecology. R package version 0.1.0. Zenodo. https://doi.org/10.5281/zenodo.3254750
