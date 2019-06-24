@@ -15,4 +15,5 @@ Trueblood, D.D., Gallagher, E.D., Gould, D.M., 1994. Three stages of seasonal su
 You can install the package in R from github using devtools.
 
 devtools::install_github('Lenaick-Menot/ness')
+
 library(ness)
